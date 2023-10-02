@@ -1,0 +1,3 @@
+В админку добавить страницу Отзывы (без привязки к товару) CRUD
+
+https://github.com/kudriashova-ag/laravel
